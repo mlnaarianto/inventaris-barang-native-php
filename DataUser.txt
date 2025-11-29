@@ -1,0 +1,13 @@
+Noted Supaya tidak lupa !
+
+Hak Akses 	: Administrator
+Username 	: Administrator
+Password 	: 12345
+
+Hak Akses 	: Admin Gudang
+Username 	: AdminGudang
+Password 	: 12345
+
+Hak Akses 	: Kepala Gudang
+Username 	: KepalaGudang
+Password 	: 12345
